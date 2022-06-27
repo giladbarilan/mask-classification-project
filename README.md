@@ -2,6 +2,7 @@
 Some of the data is on google drive because it can't be uploaded
 to GitHub due to the size of the folders.
 In order to download the data please go to the following link: 
+https://drive.google.com/drive/folders/1iQQRS1M6UXxEWdrIdlrwEivEIzvYcz9g
 
 In the drive folder you will find some directories as zip files:
 - ResizedImages.zip - Holds one folder contains all of the images in 150x150 fixed size.
