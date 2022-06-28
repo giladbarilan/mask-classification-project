@@ -1,5 +1,4 @@
 import cv2
-from PIL import Image
 from numpy import asarray
 
 RESIZE_IMAGE_SIZE = (150, 150)
